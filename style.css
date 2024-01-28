@@ -1,0 +1,31 @@
+body{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20231012/pngtree-aesthetic-sky-fluffy-white-clouds-on-a-blue-background-image_13642352.png');
+background-repeat: no-repeat;
+background-size:cover;
+}
+.container{
+    border:2px solid rgb(249, 245, 245);
+    width:290px;
+    margin: 100px auto;
+    background-color:rgb(204, 235, 248);
+    border-radius: 9px;
+}
+.inp{
+    margin: 5px;
+    width:70%;
+    height:35px;
+    border-radius: 4px;
+}
+.btn{
+    padding: 7px;
+    border-radius: 4px;
+    background-color:rgb(133, 241, 133);
+}
+.para1,.para2,.para3{
+    margin: 20px;
+    padding: 10px;
+}
+h2{
+    background-color: rgb(157, 157, 250);
+    text-align: center;
+}
